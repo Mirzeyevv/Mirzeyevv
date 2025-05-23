@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Salam, mən İbrahim Mirzəyev!
 
-<!--
-**Mirzeyevv/Mirzeyevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Full-Stack Developer | C#, ASP.NET Core | React | SQL  
+🎓 STEP IT Academy tələbəsi (2023–2025)
 
-Here are some ideas to get you started:
+## 🚀 Bacarıqlar
+- Backend: C#, ASP.NET Core, Web API, SQL
+- Frontend: HTML, CSS, JavaScript, TypeScript, React
+- Digər: Git, Design Patterns, OOP, Azure əsasları
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Portfoliomdakı Layihələr
+- Depo idarəetmə sistemi
+- Satış və borc izləmə sistemi
+- Desktop tətbiqlər (WPF, WinForms)
+
+## 📫 Əlaqə
+- ✉️ ibrahimmirzeyev07@gmail.com
+- 🌐 [LinkedIn – əlavə olunacaq]
+
+---
+
+# 👋 Hello, I'm Ibrahim Mirzayev!
+
+💻 Junior Full-Stack Developer | C#, ASP.NET Core | React | SQL  
+🎓 STEP IT Academy Student (2023–2025)
+
+## 🚀 Skills
+- Backend: C#, ASP.NET Core, Web API, SQL
+- Frontend: HTML, CSS, JavaScript, TypeScript, React
+- Tools: Git, Design Patterns, OOP, Azure Basics
+
+## 📌 Projects
+- Inventory Management System
+- Sales & Debt Tracking Platform
+- Desktop Applications (WPF, WinForms)
+
+## 📫 Contact
+- ✉️ ibrahimmirzeyev07@gmail.com
