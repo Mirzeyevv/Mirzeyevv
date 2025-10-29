@@ -14,8 +14,7 @@
 - Desktop tətbiqlər (WPF, WinForms)
 
 ## 📫 Əlaqə
-- ✉️ ibrahimmirzeyev07@gmail.com
-- 🌐 [LinkedIn – əlavə olunacaq]
+- ✉️ mirzayevibrahimdev@gmail.com
 
 ---
 
@@ -35,4 +34,4 @@
 - Desktop Applications (WPF, WinForms)
 
 ## 📫 Contact
-- ✉️ ibrahimmirzeyev07@gmail.com
+- ✉️ mirzayevibrahimdev@gmail.com 
